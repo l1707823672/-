@@ -3,9 +3,9 @@
     "pages/cart/cart",
     "pages/category/category",
     "pages/index/index",
-    
-    
-    "pages/user/user"
+    "pages/user/user",
+    "pages/orders/orders",
+    "pages/address/address"
   ],
   "window": {
     "backgroundTextStyle": "light",
@@ -14,7 +14,6 @@
     "navigationBarTextStyle": "white",
     "backgroundColor": "black",
     "enablePullDownRefresh": true
-
   },
   "tabBar": {
     "color": "#b7b7b7",
@@ -49,6 +48,5 @@
       }
     ]
   },
-
   "sitemapLocation": "sitemap.json"
 }
